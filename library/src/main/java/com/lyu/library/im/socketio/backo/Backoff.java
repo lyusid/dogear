@@ -1,4 +1,4 @@
-package com.lyu.dogear.im.socketio.backo;
+package com.lyu.library.im.socketio.backo;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

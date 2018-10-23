@@ -1,4 +1,4 @@
-package com.lyu.dogear.im.socketio.hasbinary;
+package com.lyu.library.im.socketio.hasbinary;
 
 import org.json.JSONArray;
 import org.json.JSONException;

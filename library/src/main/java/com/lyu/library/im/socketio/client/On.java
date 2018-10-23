@@ -1,4 +1,4 @@
-package com.lyu.dogear.im.socketio.client;
+package com.lyu.library.im.socketio.client;
 
 import io.socket.emitter.Emitter;
 

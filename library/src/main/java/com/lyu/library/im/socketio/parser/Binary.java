@@ -1,4 +1,4 @@
-package com.lyu.dogear.im.socketio.parser;
+package com.lyu.library.im.socketio.parser;
 
 import org.json.JSONArray;
 import org.json.JSONException;

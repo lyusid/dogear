@@ -1,6 +1,6 @@
-package com.lyu.dogear.im.socketio.parser;
+package com.lyu.library.im.socketio.parser;
 
-import com.lyu.dogear.im.socketio.hasbinary.HasBinary;
+import com.lyu.library.im.socketio.hasbinary.HasBinary;
 
 import org.json.JSONException;
 import org.json.JSONTokener;

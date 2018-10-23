@@ -1,7 +1,7 @@
-package com.lyu.dogear.im.socketio.client;
+package com.lyu.library.im.socketio.client;
 
-import com.lyu.dogear.im.socketio.parser.Packet;
-import com.lyu.dogear.im.socketio.parser.Parser;
+import com.lyu.library.im.socketio.parser.Packet;
+import com.lyu.library.im.socketio.parser.Parser;
 
 import io.socket.emitter.Emitter;
 import io.socket.thread.EventThread;
